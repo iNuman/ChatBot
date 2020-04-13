@@ -1,0 +1,53 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hei guys", "hello peeps"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help you?", "Hei :)", "Yes :)"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "See you again", "Bye!"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "what is your age", "how old are you", "age?"],
+         "responses": ["I was created few days ago!", "Prefer Not to tell", "Who me or my creator?", "Why?"],
+         "context_set": ""
+        },
+        {"tag": "Numanage",
+         "patterns": ["Can you tell me his age?","how old is Numan", "his age?", "Numans age?", "Your creaters age?", "Whats the age of your creaters?"],
+         "responses": ["He is a young guy trying his best to learn Machine Learning","Better ask himself on Instagram: @inoumn","Stop irritating me please ;("],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?","Your introduction please?"],
+         "responses": ["You can call me Bot", "I'm Bot!", "I'm Bot created by Numan."],
+         "context_set": ""
+        },
+        {"tag": "shop",
+         "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+         "responses": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!", "Well! its difficult to reccommend"],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+         "responses": ["We are open 7am-4pm Monday-Friday!"],
+         "context_set": ""
+        },
+        {"tag": "living",
+         "patterns": ["where are you from?", "where are you living?", "you from?"],
+         "responses": ["I am from Pakistan", "Somewhere on Earth", "Pakistan Gilgit-Baltistan"],
+         "context_set": ""
+        },
+         {"tag": "country",
+         "patterns": ["whats your country name?", "Where is your country located?"," you are from?", "Where are you from?"],
+         "responses": ["Pakistan"],
+         "context_set": ""
+        },
+         {"tag": "mad",
+         "patterns": ["Are you mad?", "get out", "Stop", "Are you out of your mind?"],
+         "responses": ["I am confused ;(", ";(", "Sorry I am innocent ;(", "Why?"],
+         "context_set": ""
+        }
+   ]
+}
