@@ -48,8 +48,7 @@ Let's first import all the packages that you will need during this project.
 ## Clonning
 ```yaml
 
-            git clone https://github.com/iNuman/ChatBot
-                   
+            git clone https://github.com/iNuman/ChatBot                
 ```
 
 ## Contact
