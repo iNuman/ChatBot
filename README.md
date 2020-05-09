@@ -24,9 +24,7 @@ Let's first import all the packages that you will need during this project.
 ```python
     import nltk
     from nltk.stem.lancaster import LancasterStemmer
-
     stemmer = LancasterStemmer()
-
     import numpy as np
     import tensorflow as tf
     import tflearn
@@ -48,9 +46,11 @@ Let's first import all the packages that you will need during this project.
 ```
 
 ## Clonning
-    ```
-    git clone https://github.com/iNuman/ChatBot
-    ```
+```yaml
+
+            git clone https://github.com/iNuman/ChatBot
+                   
+```
 
 ## Contact
 <p align="left">
