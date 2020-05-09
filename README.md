@@ -57,3 +57,6 @@ Let's first import all the packages that you will need during this project.
   <li>Instagram : <a href="https://instagram.com/inoumn">https://instagram.com/inoumn</a></li>
   <li>Facebook  : <a href="https://www.facebook.com/iNuman51">https://www.facebook.com/iNuman51</a></li>
 </ul></p>
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iNuman/ChatBot/blob/master/LICENSE.md)
